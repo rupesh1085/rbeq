@@ -1,0 +1,21 @@
+1.4 - GStreamer Preset Management
+    Removed the flat-file preset system, and 
+    replaced it with presets managed by the 
+    Preset system provided by GStreamer.
+
+    Thanks to Stefan Kost for telling me about
+    the GStreamer presets.
+
+1.3 - Presets!
+    Added flat-file based preset management,
+    with the ability to save and delete presets
+    in the program on-the-fly.
+
+1.2 - Bugfixes
+
+1.1 - Cleanup and Bugfixing
+  - Reorganization of the full code base, moving
+    Pieces around and getting them to play along
+    better and with less nasty code
+
+1.0- Initial Release
